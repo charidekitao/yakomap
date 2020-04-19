@@ -1,0 +1,46 @@
+body {
+    background-color: #f2f2b0;
+    color: black;
+}
+
+a,
+a:hover {
+    color: black;
+}
+
+div.row {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    background-color: #f2f2b0;
+}
+
+div.card {
+    background-color: #f2f2b0;
+    border-color: gray;
+}
+
+div.instagram img {
+    width: 40px;
+}
+
+div.instagram {
+    padding: 20px;
+}
+
+div.card {
+    margin: 10px;
+}
+
+div.alert {
+    background-color: darkslategray;
+    color: white;
+    margin:5px;
+}
+
+div.alert .price{
+    color: red;
+}
